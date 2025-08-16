@@ -1,7 +1,7 @@
 # NovaWeb
 
 NovaWeb is a lightweight, privacy-focused web browser for Linux, built with **GTK3** and **WebKitGTK**.  
-It’s designed for **low-resource git addsystems**, targeting **under 400 MB of RAM** usage, even on modern websites.
+It’s designed for **low-resource systems**, targeting **under 400 MB of RAM** usage, even on modern websites.
 
 ## ✨ Features
 
